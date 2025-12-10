@@ -1,0 +1,9 @@
+{
+	"name": "adf-aw-project-princy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99706c21-e203-461b-b291-185ba1a16d48",
+		"tenantId": "9e1efb95-625e-4c78-aa1b-e78e6fe4a404"
+	}
+}
